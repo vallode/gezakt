@@ -1,4 +1,4 @@
-# gezakt
+# gezakt / A startpage
 Simple startpage incorporating weather based on location and a search bar
 
 
